@@ -13,3 +13,6 @@ describe('helloWorld', function() {
       expect(helloWorld()).not.toBe(undefined);
     });
 });
+
+
+//TRYING TO SEE IF GITHUB IS CONNECTED TO INTELLIJ
