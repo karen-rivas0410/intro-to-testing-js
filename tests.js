@@ -15,4 +15,4 @@ describe('helloWorld', function() {
 });
 
 
-//TRYING TO SEE IF GITHUB IS CONNECTED TO INTELLIJ
+//
